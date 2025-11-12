@@ -38,6 +38,7 @@ visibility of certain elements depending on which phase the game is in, aswell a
 by validating user input, and checking for correct or incorrect answers. I learned a lot working on this project and the final result is
 something I am very proud of </h3>
 <br/>
+<img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBqdzRzcjF4aGV4ajNhamlnbDAzZXduNWcwOHIwYmkzeGF4a3AwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ybQIv0CsYm1XY9A8Dm/giphy.gif" width = "250px" height = "250px">
 <br/>
 <br/>
 <h2>Movie Trivia Game</h2>
