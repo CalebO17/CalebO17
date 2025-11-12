@@ -40,8 +40,7 @@ Functions are used to make sure the game operates correctly
 by validating user input, and checking for correct or incorrect answers. 
 <br/>  
 <br/>
-I learned a lot working on this project and the final result is
-something I am very proud of </h3>
+I learned a lot working on this project I am very proud of the final result! </h3>
 <br/>
 <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBqdzRzcjF4aGV4ajNhamlnbDAzZXduNWcwOHIwYmkzeGF4a3AwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ybQIv0CsYm1XY9A8Dm/giphy.gif" width = "250px" height = "250px">
 <br/>
