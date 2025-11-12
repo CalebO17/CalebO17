@@ -34,8 +34,12 @@ to the hangman until the man is fully displayed and the guessing player loses, o
 <br/>
 I created this by making a class that represent the players, and a class that represents the scoreboard. I used these classes
 to make objects that operate a mix of functions that will gradually run the players through each phase of the game by changing the
-visibility of certain elements depending on which phase the game is in, aswell as functions that make sure the game operates correctly
-by validating user input, and checking for correct or incorrect answers. I learned a lot working on this project and the final result is
+visibility of certain elements depending on which phase the game is in.
+<br/>
+Functions are used to make sure the game operates correctly
+by validating user input, and checking for correct or incorrect answers. 
+<br/>  
+I learned a lot working on this project and the final result is
 something I am very proud of </h3>
 <br/>
 <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBqdzRzcjF4aGV4ajNhamlnbDAzZXduNWcwOHIwYmkzeGF4a3AwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ybQIv0CsYm1XY9A8Dm/giphy.gif" width = "250px" height = "250px">
@@ -54,10 +58,14 @@ extra point. However, if the player guesses incorrectly in this round, they do n
 <br/>
 First, I made an SQL database that a C# Windows Form Application could take from. This database consists of movies, actors, quotes, and hints.
 Then I run queries from the database in my C# code, and use the results of the queries to populate lists of all the movies, actors, quotes, and hints. 
+<br/>
 Once all of the data is loaded into C#, a quote is randomly chosen, and the game commences. The lists that are populated are each lists of different
-objects belonging to classes that I created. These classes are Hint, Quote, Celebrity, and Film. The lists are class level (belonging to the form class)
+objects belonging to classes that I created. These classes are Hint, Quote, Celebrity, and Film. 
+<br/>
+The lists are class level (belonging to the form class)
 and are cleared everytime a new game begins. The score of the game and the total number of incorrect guesses are also kept track of through class level variables.
-Functions have been created run through different processes of the game and ensure it flows smoothly without redundant or repetitive code. Some examples of
+<br/>
+Functions have been created to run through different processes of the game and ensure it flows smoothly without redundant or repetitive code. Some examples of
 the functions that exist are AddScore(), checkForGameOver(), guessTheMovie() and more! 
 </h3>
 <h3>This is a project that I have been working on in my own time between classes, and I am having a lot of fun! I am constantly thinking of new ways to innovate on it,
