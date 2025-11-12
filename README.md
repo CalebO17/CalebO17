@@ -62,7 +62,9 @@ the functions that exist are AddScore(), checkForGameOver(), guessTheMovie() and
 </h3>
 <h3>This is a project that I have been working on in my own time between classes, and I am having a lot of fun! I am constantly thinking of new ways to innovate on it,
 add new features, more data, and even difficulties. I am so excited to continue working on and expanding upon this personal project!
-
+<br/>
+<br/>
+<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltMnc4OWtlZG5vY21mYjEzYnZwNjNxeW9tMnhhMjh4NndjNG13eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eYwDrm9suCZzy/giphy.gif" witdth="250px" height = "250px">
 
 
 <!--
