@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width = "50px" height = "50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"  width = "50px" height = "50px"/>
 </div>
-<h3 align = "left">I am an aspiring Software and Web developer currently enrolled in Computer Programming 
+<h3 align = "center">Hello! My name is Caleb O'Hara. I am an aspiring Software and Web developer currently enrolled in Computer Programming 
 and analysis at St. Lawrence College in Kingston, Ontario.</h3>
 <br/>
 <h3 align = "center">As a college student in Computer Programming and Analysis, I have gained skills working with, 
