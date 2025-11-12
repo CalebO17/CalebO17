@@ -1,18 +1,18 @@
 <h1 align="center">Caleb O'Hara</h1>
 <h3 align="center">A Computer Programming & Analysis Student at St. Lawrence College</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = "10px" height = "10px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width = "10px" height = "10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width = "10px" height = "10px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width = "25px" height = "25px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"  width = "25px" height = "25px"/>
 
 <h3 align = "left">I am an aspiring Software and Web developer currently enrolled in Computer Programming 
 and analysis at St. Lawrence College in Kingston, Ontario.</h3>
@@ -24,9 +24,11 @@ that works, it’s about having organized and concise code, as well as collabora
 <h1>Projects</h1>
 <h2>Hangman Game</h2>
 <h3>For my final assignment in C# class, I was given the task of making any game that I wanted. I chose to make a hangman game.
+<br/>
 I used Visual Studio C# Windows Form Application to make a Hangman game that successfully allows two players to play. One player chooses
 a word, the other player is required to attempt to guess the word, one letter at a time. Each incorrect letter guessed is a new addition 
 to the hangman until the man is fully displayed and the guessing player loses, or the word is guessed and the guessing player wins.
+<br/>
 I created this by making a class that represent the players, and a class that represents the scoreboard. I used these classes
 to make objects that operate a mix of functions that will gradually run the players through each phase of the game by changing the
 visibility of certain elements depending on which phase the game is in, aswell as functions that make sure the game operates correctly
