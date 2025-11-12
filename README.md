@@ -36,9 +36,11 @@ I created this by making a class that represent the players, and a class that re
 to make objects that operate a mix of functions that will gradually run the players through each phase of the game by changing the
 visibility of certain elements depending on which phase the game is in.
 <br/>
+<br/>
 Functions are used to make sure the game operates correctly
 by validating user input, and checking for correct or incorrect answers. 
 <br/>  
+<br/>
 I learned a lot working on this project and the final result is
 something I am very proud of </h3>
 <br/>
@@ -59,11 +61,14 @@ extra point. However, if the player guesses incorrectly in this round, they do n
 First, I made an SQL database that a C# Windows Form Application could take from. This database consists of movies, actors, quotes, and hints.
 Then I run queries from the database in my C# code, and use the results of the queries to populate lists of all the movies, actors, quotes, and hints. 
 <br/>
+<br/>
 Once all of the data is loaded into C#, a quote is randomly chosen, and the game commences. The lists that are populated are each lists of different
 objects belonging to classes that I created. These classes are Hint, Quote, Celebrity, and Film. 
 <br/>
+<br/>
 The lists are class level (belonging to the form class)
 and are cleared everytime a new game begins. The score of the game and the total number of incorrect guesses are also kept track of through class level variables.
+<br/>
 <br/>
 Functions have been created to run through different processes of the game and ensure it flows smoothly without redundant or repetitive code. Some examples of
 the functions that exist are AddScore(), checkForGameOver(), guessTheMovie() and more! 
