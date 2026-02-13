@@ -22,29 +22,6 @@ C++, C#, Express, CSS, HTML, Javascript, MongoDB, MySQL, nodeJS, PHP, React, Uni
 that works, it’s about having organized and concise code, as well as collaboration skills for working alongside other programmers.</h3>
 
 <h1>Projects</h1>
-<h2>Hangman Game</h2>
-<h3>For my final assignment in C# class, I was given the task of making any game that I wanted. I chose to make a hangman game.
-<br/>
-<br/>
-I used Visual Studio C# Windows Form Application to make a Hangman game that successfully allows two players to play. One player chooses
-a word, the other player is required to attempt to guess the word, one letter at a time. Each incorrect letter guessed is a new addition 
-to the hangman until the man is fully displayed and the guessing player loses, or the word is guessed and the guessing player wins.
-<br/>
-<br/>
-I created this by making a class that represent the players, and a class that represents the scoreboard. I used these classes
-to make objects that operate a mix of functions that will gradually run the players through each phase of the game by changing the
-visibility of certain elements depending on which phase the game is in.
-<br/>
-<br/>
-Functions are used to make sure the game operates correctly
-by validating user input, and checking for correct or incorrect answers. 
-<br/>  
-<br/>
-I learned a lot working on this project I am very proud of the final result! </h3>
-<br/>
-<img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBqdzRzcjF4aGV4ajNhamlnbDAzZXduNWcwOHIwYmkzeGF4a3AwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ybQIv0CsYm1XY9A8Dm/giphy.gif" width = "250px" height = "250px">
-<br/>
-<br/>
 <h2>Movie Trivia Game</h2>
 <h3>I am passionate about programming, movies, and games. I decided to combine these passions together into a Movie Trivia Game!
 <br/>
